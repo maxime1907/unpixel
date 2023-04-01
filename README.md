@@ -1,3 +1,3 @@
 # UnPixel
 
-Lille Game Jam 2016
+Lille e-artsup game jam 2016
